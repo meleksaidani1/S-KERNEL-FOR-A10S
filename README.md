@@ -1,0 +1,2 @@
+# S-KERNEL-FOR-A10S
+SS
